@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Project SafeSky](https://abhi5hek001.github.io/SafeSky/)
 
-- 🌱 I’m currently learning **MERN Stack and Chrome Extension**
+- 🌱 I’m currently learning **Python, APIs, MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abhi5hek001/](https://github.com/abhi5hek001/)
 
