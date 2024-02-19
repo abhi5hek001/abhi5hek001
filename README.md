@@ -1,5 +1,5 @@
 <h1 align="center">Hello Everyone, I'am Abhishek Sahay</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">A passionate full stack developer from India.</h3>
 
 - 🔭 I’m currently working on [Project SafeSky](https://abhi5hek001.github.io/SafeSky/)
 
