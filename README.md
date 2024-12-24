@@ -5,7 +5,7 @@
 
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/abhi5hek001/)
 
-- 🐦 Follow me on [Twitter](https://twitter.com/theabhisheksahay)
+- 🐦 Follow me on [Twitter](https://twitter.com/sahay_abhi5hek)
 
 - 📫 How to reach me **sahayabhishek.edu@gmail.com**
 
