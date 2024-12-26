@@ -7,7 +7,7 @@
 
 - Follow me on [Twitter](https://twitter.com/sahay_abhi5hek)
 
-- Please visit my Portfolio Website [Portfolio](https://next-portfolio-zeta-five.vercel.app/)
+- Please visit my [Portfolio Website](https://next-portfolio-zeta-five.vercel.app/)
 
 - How to reach me **sahayabhishek.edu@gmail.com**
 
