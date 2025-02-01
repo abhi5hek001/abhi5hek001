@@ -23,6 +23,7 @@
 ###
 
 <div align="left">
+  <h1>💻Tech Stack:</h1>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript logo" />
@@ -57,6 +58,7 @@
 ###
 
 <div align="left">
+  <h1>Social Links:</h1>
   <a href="https://www.instagram.com/theabhisheksahay/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
   </a>
