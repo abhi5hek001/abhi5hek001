@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Abhishek Sahay, a Prefinal year student in IIIT Sri City</h2>
+<h2 align="left">Hi 👋! My name is Abhishek Sahay, Prefinal year student at IIIT Sri City</h2>
 
 ###
 
