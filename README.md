@@ -6,7 +6,7 @@
   <tr>
     <td align="left">
       🎓 B.Tech in Computer Science </br>
-      📚 final year student </br>
+      📚 Final year student </br>
       💻 Full Stack Developer </br>
       🌐 <a href="https://next-portfolio-zeta-five.vercel.app/" target="_blank">Portfolio Website</a> </br>
     </td>
