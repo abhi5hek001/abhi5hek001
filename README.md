@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Abhishek Sahay, Prefinal year student at IIIT Sri City</h2>
+<h2 align="left">Hi 👋! My name is Abhishek Sahay, final year student at IIIT Sri City</h2>
 
 ###
 
@@ -6,7 +6,7 @@
   <tr>
     <td align="left">
       🎓 B.Tech in Computer Science </br>
-      📚 Pre-final year student </br>
+      📚 final year student </br>
       💻 Full Stack Developer </br>
       🌐 <a href="https://next-portfolio-zeta-five.vercel.app/" target="_blank">Portfolio Website</a> </br>
     </td>
