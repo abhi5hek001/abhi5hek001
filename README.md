@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Abhishek Sahay, final year student at IIIT Sri City</h2>
+<h2 align="left">Hi 👋! My name is Abhishek Sahay, Graduated from IIIT Sri City '26</h2>
 
 ###
 
@@ -6,9 +6,8 @@
   <tr>
     <td align="left">
       🎓 B.Tech in Computer Science </br>
-      📚 Final year student </br>
       💻 Full Stack Developer </br>
-      🌐 <a href="https://sahayabhishek.tech" target="_blank">Portfolio Website</a> </br>
+      🌐 <a href="https://next-portfolio-green-sigma.vercel.app/" target="_blank">Portfolio Website</a> </br>
     </td>
     <td align="right">
       <img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
